@@ -6,5 +6,6 @@ __pycache__/
 data/
 .DS_Store
 
-.venv/
-venv/
+*.pt
+*.pkl
+runs/
