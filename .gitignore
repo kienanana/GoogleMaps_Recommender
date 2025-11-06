@@ -8,8 +8,17 @@ venv/
 src/checkpoints/
 src/checkpoints.json
 artifacts/
+<<<<<<< HEAD
 CL_Drafts/
 
 *.pt
 *.pkl
 runs/
+=======
+src/GNN.ipynb
+CL_Drafts/
+
+*.pt
+*.pkl
+runs/
+>>>>>>> f4e3955c (aspect feature generation)
