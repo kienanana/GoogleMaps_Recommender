@@ -4,7 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 data/
-.DS_Store
-
-.venv/
 venv/
+CL_drafts/
+src/checkpoints/
+src/checkpoints.json
