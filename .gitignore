@@ -10,7 +10,6 @@ data/
 *.pkl
 runs/
 venv/
-CL_drafts/
 src/checkpoints/
 src/checkpoints.json
 artifacts/
