@@ -9,3 +9,7 @@ data/
 *.pt
 *.pkl
 runs/
+venv/
+CL_drafts/
+src/checkpoints/
+src/checkpoints.json
