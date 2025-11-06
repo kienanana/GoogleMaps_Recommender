@@ -9,3 +9,7 @@ CL_drafts/
 src/checkpoints/
 src/checkpoints.json
 artifacts/
+
+*.pt
+*.pkl
+runs/
