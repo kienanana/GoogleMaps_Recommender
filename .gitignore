@@ -5,7 +5,6 @@ __pycache__/
 .DS_Store
 data/
 venv/
-CL_drafts/
 src/checkpoints/
 src/checkpoints.json
 artifacts/
